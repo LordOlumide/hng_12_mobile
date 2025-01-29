@@ -1,16 +1,14 @@
 # hng_task_0
 
-A new Flutter project.
+A flutter project created for HNG task 0.
 
-## Getting Started
+The project can be found on [Github](https://github.com/LordOlumide/hng_12_mobile/tree/main/hng_task_0)
 
-This project is a starting point for a Flutter application.
+[HNG flutter developer hire page](https://hng.tech/hire/flutter-developers)
 
-A few resources to get you started if this is your first Flutter project:
+Instructions for cloning, building, and running the mobile app:
+- Clone the project from [Github](https://github.com/LordOlumide/hng_12_mobile/tree/main/hng_task_0) to your local machine.
+- Ensure you have your system set up for flutter development with the flutter SDK and Android studio installed.
+- Set up a physical device or emulator to run the app on.
+- In your terminal, cd into the project folder and run the command `flutter run`.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
