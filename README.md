@@ -1,4 +1,4 @@
-# hng_task_0
+# hng_12_mobile
 
 This is the folder where I store HNG 12 tasks. 
 
